@@ -1,161 +1,97 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ADVANCED HEADER BANNER                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+# <div align="center"> Hi there 👋 I'm Rizzviii </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Rizzviii&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
-</p>
+<div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    DYNAMIC INTRO WITH ANIMATION                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+### 🚀 Full Stack Developer | Tech Enthusiast | Problem Solver
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3500&pause=500&color=0ea5e9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Problem+Solver;Tech+Innovator;Web+%26+Mobile+Specialist" alt="Typing Animation" />
-</h1>
+[![GitHub followers](https://img.shields.io/github/followers/Rizzviii?label=Followers&style=social)](https://github.com/Rizzviii)
+[![GitHub User's stars](https://img.shields.io/github/stars/Rizzviii?label=Stars&style=social)](https://github.com/Rizzviii)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=16&duration=4000&pause=1000&color=94a3b8&center=true&vCenter=true&width=600&lines=Building%20%7C%20Innovating%20%7C%20Learning;Transforming%20ideas%20into%20digital%20solutions" alt="Subtitle" />
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/Rizzviii?tab=followers">
-    <img src="https://img.shields.io/github/followers/Rizzviii?style=for-the-badge&color=0ea5e9&labelColor=1e293b&logo=github&logoColor=white" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/Rizzviii?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Rizzviii?style=for-the-badge&color=0ea5e9&labelColor=1e293b&logo=github&logoColor=white" alt="GitHub Stars" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Rizzviii&style=for-the-badge&color=0ea5e9&labelColor=1e293b" alt="Profile Views" />
-</p>
+---
 
-<br />
+## 💻 About Me
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ABOUT ME - PREMIUM SECTION                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+```
+💡 Passionate Full Stack Developer
+🌟 Creating elegant & scalable web solutions  
+📚 Continuous learner & tech enthusiast
+🎯 Problem solver with creative mindset
+🤝 Open to collaboration & new opportunities
+```
 
-<h2 align="center">👋 About Me</h2>
+---
 
-<p align="center">
-  <samp>
-    💻 Full Stack Developer with expertise in modern web technologies<br>
-    🚀 Passionate about building scalable, elegant, and user-friendly applications<br>
-    🎨 Creative problem-solver who loves clean code and great design<br>
-    📚 Continuous learner exploring AI, cloud technologies & emerging trends<br>
-    🌍 Open to collaboration & contributing to innovative projects<br>
-  </samp>
-</p>
+## 🛠️ Tech Stack
 
-<br />
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK - ADVANCED                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,sass,webpack" alt="Frontend Tech" />
-</p>
+---
 
-<h3 align="center">Backend & Databases</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,mysql,postgres,mongodb,firebase,supabase,graphql" alt="Backend Tech" />
-</p>
+## 📊 GitHub Stats
 
-<h3 align="center">Tools & Platforms</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,aws,heroku,linux,vscode,figma" alt="Tools" />
-</p>
+<div align="center">
 
-<br />
+[![Rizzviii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rizzviii&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Rizzviii)
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATISTICS - ADVANCED                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizzviii&layout=compact&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Rizzviii)
 
-<h2 align="center">📊 GitHub Analytics</h2>
+</div>
 
-<p align="center">
-  <img alt="Rizzviii's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rizzviii&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&border_color=30363d&border_radius=8" width="49%" />
-  <img alt="Rizzviii's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rizzviii&theme=dark&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=0ea5e9&dates=c9d1d9&border=30363d" width="49%" />
-</p>
+---
 
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizzviii&layout=compact&include_all_commits=true&count_private=true&theme=dark&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&border_color=30363d&border_radius=8" width="49%" />
-  <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rizzviii&theme=dark_dimmed" width="49%" />
-</p>
+## 🎯 Featured Projects
 
-<br />
+Check out my repositories for more exciting projects!
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION GRAPH                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+[![View All Projects](https://img.shields.io/badge/View%20All%20Projects-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rizzviii?tab=repositories)
 
-<h2 align="center">📈 Contribution Activity</h2>
+---
 
-<p align="center">
-  <img alt="Repos per Language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rizzviii&theme=dark_dimmed" width="100%" />
-</p>
+## 📫 Connect With Me
 
-<br />
+<div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rizzviii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rizzviii)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rizzviii)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-<h2 align="center">🚀 Featured Projects</h2>
+</div>
 
-<p align="center">
-  <a href="https://github.com/Rizzviii?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
-  </a>
-</p>
+---
 
-<br />
+<div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONNECT WITH ME                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+### ⭐ Thanks for visiting my profile! Feel free to star ⭐ my repositories
 
-<h2 align="center">💬 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://github.com/Rizzviii" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/rizzviii" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/rizzviii" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-0ea5e9?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<br />
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    QUOTE OF THE DAY                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
-</p>
-
-<br />
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FOOTER BANNER                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=100&section=footer" alt="Footer" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=12&duration=4000&pause=1000&color=64748b&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%98%8A;Feel+free+to+star+%E2%AD%90+my+repositories" alt="Thank You" />
-</p>
+</div>
