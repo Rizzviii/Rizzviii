@@ -22,9 +22,6 @@
   <a href="https://github.com/Rizzviii?tab=followers">
     <img src="https://img.shields.io/github/followers/Rizzviii?style=for-the-badge&color=0ea5e9&labelColor=1e293b&logo=github&logoColor=white" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/Rizzviii?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Rizzviii?style=for-the-badge&color=0ea5e9&labelColor=1e293b&logo=github&logoColor=white" alt="GitHub Stars" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=Rizzviii&style=for-the-badge&color=0ea5e9&labelColor=1e293b" alt="Profile Views" />
 </p>
 
@@ -78,12 +75,12 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img alt="Rizzviii's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rizzviii&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&border_color=30363d&border_radius=8" width="49%" />
-  <img alt="Rizzviii's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rizzviii&theme=dark&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=0ea5e9&dates=c9d1d9&border=30363d" width="49%" />
+  <img alt="Rizzviii's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rizzviii&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&theme=dark&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&border_color=30363d&border_radius=8" width="49%" />
+  <img alt="Rizzviii's GitHub Streak" src="https://streak-stats.demolab.com?user=Rizzviii&theme=dark&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=0ea5e9&dates=c9d1d9&border=30363d" width="49%" />
 </p>
 
 <p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizzviii&layout=compact&include_all_commits=true&count_private=true&theme=dark&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&border_color=30363d&border_radius=8" width="49%" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizzviii&layout=compact&include_all_commits=true&count_private=true&cache_seconds=1800&theme=dark&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&border_color=30363d&border_radius=8" width="49%" />
   <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rizzviii&theme=dark_dimmed" width="49%" />
 </p>
 
@@ -125,13 +122,10 @@
   <a href="https://github.com/Rizzviii" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/rizzviii" target="_blank">
+  <a href="https://www.linkedin.com/in/baqar-rizvi-8a4b96267" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/rizzviii" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-0ea5e9?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:baqarrizvi79@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
