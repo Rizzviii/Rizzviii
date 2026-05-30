@@ -75,13 +75,13 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img alt="Rizzviii's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rizzviii&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&theme=dark&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&border_color=30363d&border_radius=8" width="49%" />
+  <img alt="Rizzviii's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rizzviii&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&theme=dark&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&border_color=30363d&border_radius=8&hide_border=false&rank_icon=github" width="49%" />
   <img alt="Rizzviii's GitHub Streak" src="https://streak-stats.demolab.com?user=Rizzviii&theme=dark&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=0ea5e9&dates=c9d1d9&border=30363d" width="49%" />
 </p>
 
 <p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizzviii&layout=compact&include_all_commits=true&count_private=true&cache_seconds=1800&theme=dark&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&border_color=30363d&border_radius=8" width="49%" />
-  <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rizzviii&theme=dark_dimmed" width="49%" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizzviii&layout=compact&langs_count=8&cache_seconds=86400&theme=dark&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&border_color=30363d&border_radius=8" width="49%" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Rizzviii&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=false" width="49%" />
 </p>
 
 <br />
@@ -93,7 +93,7 @@
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img alt="Repos per Language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rizzviii&theme=dark_dimmed" width="100%" />
+  <img alt="Rizzviii's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Rizzviii&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=c9d1d9&area=true&area_color=0ea5e9&hide_border=false&custom_title=Rizzviii's%20Contribution%20Graph" width="100%" />
 </p>
 
 <br />
